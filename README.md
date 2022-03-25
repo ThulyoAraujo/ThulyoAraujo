@@ -23,5 +23,5 @@
  
 </div>
 
-- 🔭 Atualmente atuando com DEV back-end na fintech Justa Pagamentos
+- 🔭 Atualmente atuando como DEV back-end na fintech Justa Pagamentos
 - 🌱 Desenvolvendo habilidades em programação de jogos
