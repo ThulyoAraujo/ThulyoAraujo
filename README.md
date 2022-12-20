@@ -14,6 +14,9 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="springboot" height="40" width="40" src="https://img.icons8.com/color/512/spring-logo.png">
   <img align="center" alt="kotlin" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3u9r_UQkbLd1xDWkcDH6VGJgMQzYCpodsNg&usqp=CAU">
+  <img align="center" alt="postgresql" height="30" width="30" src="https://www.postgresql.org/media/img/about/press/elephant.png">
+  <img align="center" alt="javascript" height="30" width="30" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-4.png">
+  <img align="center" alt="typescript" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
 </div>
   
   ##
