@@ -13,7 +13,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="springboot" height="40" width="40" src="https://img.icons8.com/color/512/spring-logo.png">
-  <img align="center" alt="kotlin" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3u9r_UQkbLd1xDWkcDH6VGJgMQzYCpodsNg&usqp=CAU">
+  <img align="center" alt="kotlin" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3u9r_UQkbLd1xDWkcDH6VGJgMQzYCpodsNg&usqp=CAU">
 </div>
   
   ##
