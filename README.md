@@ -1,4 +1,4 @@
-## Olá! Eu sou Thúlyo Araujo, desenvolvedor de software e estudante de Ciências da Computação 👋
+## Olá! Eu sou Thúlyo Araujo, desenvolvedor de software e Cientista da Computação 👋
 
 <div align="center">
   <a href="https://github.com/ThulyoAraujo">
@@ -27,4 +27,4 @@
  
 </div>
 
-- 🔭 Atualmente trabalho como DEV back-end na fintech Justa Pagamentos
+- 🔭 Atualmente trabalho como DEV back-end
