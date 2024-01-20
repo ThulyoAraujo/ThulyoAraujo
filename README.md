@@ -1,4 +1,4 @@
-## Olá! Eu sou Thúlyo Araujo, desenvolvedor de software e Cientista da Computação 👋
+## Hi! I am Thúlyo Araujo, software developer and Computer Scientist 👋
 
 <div align="center">
   <a href="https://github.com/ThulyoAraujo">
@@ -27,4 +27,4 @@
  
 </div>
 
-- 🔭 Atualmente trabalho como DEV back-end
+- 🔭 I currently work as a back-end software developer
